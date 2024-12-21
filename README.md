@@ -1,29 +1,27 @@
-# Salvation 팀 프로젝트 소개
- 
+# 🌟 Salvation 팀 프로젝트 소개
+
 ![LoGo](https://github.com/gerrard8888/rfrf/blob/main/ss.png?raw=true)
 
+---
 
-## 목차
+## 📚 목차
 - [팀 소개](#팀-소개)
-  
 - [프로젝트 개발 이유](#프로젝트-개발-이유)
-
 - [프로젝트 개요](#프로젝트-개요)
-
 - [실행 방법](#실행-방법)
 
 ---
 
-## 팀 소개
+## 👥 팀 소개
 
 ### 팀 이름: **Salvation**
 
 | 이름          | 역할           | GitHub Profile                                   |
 |---------------|----------------|-------------------------------------------------|
-| 석준성       | 팀장           | [@seok](https://github.com/kimcheolsu)   |
-| 전영재       | 부팀장         | [@jeon](https://github.com/gerrard8888) |
-| 정호영       | 프로그래머     | [@jung](https://github.com/hoaeng/Salvation)     |
-| 김태원       | 엔지니어       | [@kim](https://github.com/cronak2355) |
+| 석준성       | 팀장           | [@seok](https://github.com/kimcheolsu)         |
+| 전영재       | 부팀장         | [@jeon](https://github.com/gerrard8888)        |
+| 정호영       | 프로그래머     | [@jung](https://github.com/hoaeng/Salvation)   |
+| 김태원       | 엔지니어       | [@kim](https://github.com/cronak2355)          |
 
 ---
 
