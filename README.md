@@ -1,4 +1,4 @@
-# Salvation
+# Salvation 팀 프로젝트 소개
  
 ![LoGo](https://github.com/gerrard8888/rfrf/blob/main/ss.png?raw=true)
 
@@ -12,20 +12,18 @@
 
 - [실행 방법](#실행-방법)
 
-- [문의](#문의)
-
 ---
 
 ## 팀 소개
 
-### 팀 이름: **Dream Developers**
+### 팀 이름: **Salvation**
 
 | 이름          | 역할           | GitHub Profile                                   |
 |---------------|----------------|-------------------------------------------------|
-| 김철수       | 팀장 / 백엔드  | [@kimcheolsu](https://github.com/kimcheolsu)   |
-| 이영희       | 프론트엔드     | [@leeyounghee](https://github.com/leeyounghee) |
-| 박민지       | 디자이너       | [@parkminji](https://github.com/parkminji)     |
-| 정수현       | 데이터 분석가  | [@jungsuhyeon](https://github.com/jungsuhyeon) |
+| 석준성       | 팀장           | [@kimcheolsu](https://github.com/kimcheolsu)   |
+| 전영재       | 부팀장         | [@leeyounghee](https://github.com/gerrard8888) |
+| 정호영       | 프로그래머     | [@parkminji](https://github.com/hoaeng/Salvation)     |
+| 김태원       | 엔지니어       | [@jungsuhyeon](https://github.com/cronak2355) |
 
 ---
 
@@ -95,17 +93,6 @@
 ### 3. 접속
    - 로컬에서: `http://localhost:3000`
    - 배포된 서버: `https://your-deployed-site.com`
-
----
-
-## 문의
-
-프로젝트에 대한 문의 사항은 아래로 연락해주세요:
-
-- **이메일**: example@example.com
-- **GitHub Issues**: [링크](https://github.com/username/project/issues)
-- **팀 웹사이트**: [https://team-website.com](https://team-website.com)
-
 ---
 
 감사합니다! 🙌
