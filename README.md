@@ -20,10 +20,10 @@
 
 | 이름          | 역할           | GitHub Profile                                   |
 |---------------|----------------|-------------------------------------------------|
-| 석준성       | 팀장           | [@kimcheolsu](https://github.com/kimcheolsu)   |
-| 전영재       | 부팀장         | [@leeyounghee](https://github.com/gerrard8888) |
-| 정호영       | 프로그래머     | [@parkminji](https://github.com/hoaeng/Salvation)     |
-| 김태원       | 엔지니어       | [@jungsuhyeon](https://github.com/cronak2355) |
+| 석준성       | 팀장           | [@seok](https://github.com/kimcheolsu)   |
+| 전영재       | 부팀장         | [@jeon](https://github.com/gerrard8888) |
+| 정호영       | 프로그래머     | [@jung](https://github.com/hoaeng/Salvation)     |
+| 김태원       | 엔지니어       | [@kim](https://github.com/cronak2355) |
 
 ---
 
