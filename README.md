@@ -1,6 +1,6 @@
 # Salvation
  
-![LoGo](![KakaoTalk_20241221_132548953](https://github.com/user-attachments/assets/0cafc87d-812f-423e-acc6-d04a711179f0)
+![LoGo](!ss)
 )
 
 ## 목차
