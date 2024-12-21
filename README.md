@@ -1,7 +1,7 @@
 # Salvation
  
-![LoGo](!ss)
-)
+![LoGo](https://github.com/gerrard8888/rfrf/blob/main/ss.png?raw=true)
+
 
 ## 목차
 - [팀 소개](#팀-소개)
